@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3006",
+        "BASE_URL": "https://nextjs-6twlnln65-fenix935s-projects.vercel.app",
         "MONGODB_URL": "mongodb+srv://fenixfire5454:Ihy4womyUCEEtHnM@cluster0.fq31og8.mongodb.net/tuit?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "YOUR_ACCESS_TOKEN_SECRET",
         "REFRESH_TOKEN_SECRET": "YOUR_REFRESH_TOKEN_SECRET",
